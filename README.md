@@ -1,3 +1,1 @@
-git est trop derangeant
-feature1
-feature2
+Ce projet est un resume des commandes de git
